@@ -2,7 +2,7 @@
 
 💻 **Full-Stack Developer | Software Engineer | Problem Solver**  
 ⚡ Passionate about building **scalable web applications**, crafting **efficient backend systems**, and solving complex coding challenges.  
-🌐 [Portfolio Website](https://atharva-portfolio.vercel.app)  
+🌐 [Portfolio Website](https://atharva-bokade.vercel.app)  
 
 ---
 
