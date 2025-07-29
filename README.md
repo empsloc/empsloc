@@ -59,16 +59,16 @@
 
 ## 🔥 Projects  
 
-### [🚀 CopyRush](https://github.com/empsloc/)  
-A **full-stack platform** for students to upload study materials and documents with **integrated payment gateway** and **cloud storage**.  
+### [🚀 AIIDE](https://github.com/empsloc/)  
+A **full-stack IDE platform** that lets developers **generate and edit React code from prompts**, with **real-time live preview** and collaborative editing.  
 
-### [📝 NoteCascade](https://github.com/empsloc/)  
-Collaborative notes-sharing platform built with **Next.js, Prisma, MongoDB**, and secure authentication via **NextAuth**.  
+### [🖼️ WireframeToCode](https://github.com/empsloc/WireframeToCode)  
+Upload a **wireframe PNG**, choose from **Google Gemini / Meta LLaMA / DeepSeek**, and instantly generate **React.js applications with OCR-based text extraction** and a **live preview editor**.  
 
-### [🍴 MessoApp](https://github.com/empsloc/)  
-Mess management application with **real-time menu updates**, **secure auth**, and **responsive UI** for daily use.  
+### [📧 EmailTemp](https://github.com/empsloc/ai-email-template)  
+Convert **user requirements into interactive email templates**, edit them via **drag & drop UI builder**, and export directly to **React code**.  
 
-✨ I have more **full-stack and software projects**.  
+✨ I have many more **full-stack and software projects**.  
 👉 Explore all my [repositories here](https://github.com/empsloc?tab=repositories).  
 
 ---
