@@ -1,25 +1,27 @@
 # Hi 👋, I'm Atharva Bokade  
 
-💻 **Full-Stack Developer | AI Enthusiast | Problem Solver**  
-⚡ Passionate about building **AI-powered applications**, scalable web apps, and solving complex coding challenges.  
+💻 **Full-Stack Developer | Software Engineer | Problem Solver**  
+⚡ Passionate about building **scalable web applications**, crafting **efficient backend systems**, and solving complex coding challenges.  
+🌐 [Portfolio Website](https://atharva-portfolio.vercel.app)  
 
 ---
 
 ## 🚀 About Me  
 - 🎓 Pursuing **B.Tech in Computer Engineering** at PCCOE, Pune.  
-- 🌱 Currently exploring **AI-driven development**, **LLMs**, and **Next.js ecosystem**.  
-- 💡 Strong foundation in **Data Structures & Algorithms, OOP, and Cloud Computing**.  
-- 📈 Actively contributing to **AI + Web Dev projects** with real-world applications.  
+- 🌱 Currently exploring **modern web frameworks, ORMs, and system design**.  
+- 💡 Strong foundation in **Data Structures & Algorithms, OOP, Databases, and Cloud Computing**.  
+- 📈 Experienced in developing **end-to-end full-stack applications** with real-world impact.  
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack  
 
 ### 💻 Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -35,10 +37,13 @@
 
 ---
 
-### 🗄️ Databases  
+### 🗄️ Databases & ORMs  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-FFEC19?style=for-the-badge&logo=drizzle&logoColor=black)
+![Convex](https://img.shields.io/badge/Convex-1B1F23?style=for-the-badge&logo=convex&logoColor=white)
 
 ---
 
@@ -49,20 +54,22 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-  
 
 ---
 
 ## 🔥 Projects  
 
-### [🚀 AIIDE](https://github.com/empsloc/)  
-AI-powered IDE that generates **React.js code from natural language prompts** with **real-time preview and editing** inside the application.  
+### [🚀 CopyRush](https://github.com/empsloc/)  
+A **full-stack platform** for students to upload study materials and documents with **integrated payment gateway** and **cloud storage**.  
 
-### [🖼️ WireframeToCode](https://github.com/empsloc/WireframeToCode)  
-Upload a wireframe PNG → choose from **Google Gemini / Meta LLaMA / DeepSeek** → get full **React code with live preview**. Includes **OCR-based text extraction** from wireframes.  
+### [📝 NoteCascade](https://github.com/empsloc/)  
+Collaborative notes-sharing platform built with **Next.js, Prisma, MongoDB**, and secure authentication via **NextAuth**.  
 
-### [📧 EmailTemp](https://github.com/empsloc/ai-email-template)  
-AI-driven **email template generator** → converts requirements into **UI layouts** with **drag & drop editing** + export to React code.  
+### [🍴 MessoApp](https://github.com/empsloc/)  
+Mess management application with **real-time menu updates**, **secure auth**, and **responsive UI** for daily use.  
+
+✨ I have more **full-stack and software projects**.  
+👉 Explore all my [repositories here](https://github.com/empsloc?tab=repositories).  
 
 ---
 
@@ -89,5 +96,3 @@ AI-driven **email template generator** → converts requirements into **UI layou
 💼 [LinkedIn](https://www.linkedin.com/in/atharva-bokade-249871226/)  
 🌎 [Portfolio](https://atharva-portfolio.vercel.app)  
 🐙 [GitHub](https://github.com/empsloc)  
-
----
