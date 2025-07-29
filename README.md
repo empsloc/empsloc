@@ -68,13 +68,13 @@ Upload a **wireframe PNG**, choose from **Google Gemini / Meta LLaMA / DeepSeek*
 ### [📧 EmailTemp](https://github.com/empsloc/ai-email-template)  
 Convert **user requirements into interactive email templates**, edit them via **drag & drop UI builder**, and export directly to **React code**.  
 
-### [🎨 AI Logo Maker](https://github.com/empsloc/ai-logo)  
+### [🎨 LogoGen](https://github.com/empsloc/ai-logo)  
 Generates **unique, high-quality logos** from text prompts using AI. Includes **vector-based export** for real-world usage in apps, websites, and branding.  
 
-### [✍️ AI Content Generator](https://github.com/empsloc/ai-content-gen)  
+### [✍️ ContentAssist](https://github.com/empsloc/ai-content-gen)  
 AI-powered tool to generate **blogs, documentation, and SEO-friendly content**. Features a built-in **rich-text editor** for refining and exporting content.  
 
-### [📝 AI Form Generator](https://github.com/empsloc/a-form)  
+### [📝 AutoForm](https://github.com/empsloc/ai-form)  
 Create **dynamic forms from natural language prompts**, with support for **form validation, real-time preview, and export to React components**.  
 
 ✨ I have many more **full-stack and software projects**.  
