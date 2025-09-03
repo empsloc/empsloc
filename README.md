@@ -103,5 +103,5 @@ Create **dynamic forms from natural language prompts**, with support for **form 
 
 📧 [Email](mailto:atharva0bokade@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/atharva-bokade-249871226/)  
-🌎 [Portfolio](https://atharva-portfolio.vercel.app)  
+🌎 [Portfolio]([https://atharva-portfolio.vercel.app](https://atharva-bokade.vercel.app/))  
 🐙 [GitHub](https://github.com/empsloc)  
