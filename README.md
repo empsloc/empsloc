@@ -71,11 +71,13 @@ Convert **user requirements into interactive email templates**, edit them via **
 ### [🎨 LogoGen](https://github.com/empsloc/ai-logo)  
 Generates **unique, high-quality logos** from text prompts using AI. Includes **vector-based export** for real-world usage in apps, websites, and branding.  
 
+### [📝 AutoForm](https://github.com/empsloc/ai-forms)  
+Create **dynamic forms from natural language prompts**, with support for **form validation, real-time preview, and export to React components**.  
+
 ### [✍️ ContentAssist](https://github.com/empsloc/ai-content-gen)  
 AI-powered tool to generate **blogs, documentation, and SEO-friendly content**. Features a built-in **rich-text editor** for refining and exporting content.  
 
-### [📝 AutoForm](https://github.com/empsloc/ai-form)  
-Create **dynamic forms from natural language prompts**, with support for **form validation, real-time preview, and export to React components**.  
+
 
 ✨ I have many more **full-stack and software projects**.  
 👉 Explore all my [repositories here](https://github.com/empsloc?tab=repositories).  
