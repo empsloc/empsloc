@@ -59,10 +59,10 @@
 
 ## 🔥 Projects  
 
-### [🚀 AIIDE](https://github.com/empsloc/)  
+### [🚀 AIIDE](https://github.com/empsloc/ai-ide)  
 A **full-stack IDE platform** that lets developers **generate and edit React code from prompts**, with **real-time live preview** and collaborative editing.  
 
-### [🖼️ WireframeToCode](https://github.com/empsloc/WireframeToCode)  
+### [🖼️ WireframeToCode](https://github.com/empsloc/ai-wireframe-to-code)  
 Upload a **wireframe PNG**, choose from **Google Gemini / Meta LLaMA / DeepSeek**, and instantly generate **React.js applications with OCR-based text extraction** and a **live preview editor**.  
 
 ### [📧 EmailTemp](https://github.com/empsloc/ai-email-template)  
