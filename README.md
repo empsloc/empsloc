@@ -1,4 +1,4 @@
-# Hi 👋, I'm Atharva Bokade  
+# Hi, I'm Atharva Bokade  
 
 💻 **Full-Stack Developer | Software Engineer | Problem Solver**  
 ⚡ Passionate about building **scalable web applications**, crafting **efficient backend systems**, and solving complex coding challenges.  
